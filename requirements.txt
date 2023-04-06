@@ -2,4 +2,4 @@ basicsr
 facexlib
 realesrgan
 setuptools
-python==3.11.3
+
